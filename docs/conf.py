@@ -1,4 +1,4 @@
-project = 'System-Mechanic-'
+project = 'System-Mechanic'
 author = 'Your Name'
 release = '1.0'
 
